@@ -1,5 +1,5 @@
-const API_KEY = "4e56619d2946628ae64f926384404fed";
-const BASE_URL = "https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}";
+// const API_KEY = "4e56619d2946628ae64f926384404fed";
+// const BASE_URL = "https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}";
 
 
 const getWeatherData = (infoType, searchParams) => {

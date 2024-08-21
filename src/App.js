@@ -1,4 +1,5 @@
 import './App.css';
+import Forecast from './components/Forecast';
 import Inputs from './components/Inputs';
 import TempAndDetails from './components/TempAndDetails';
 import TimeAndLocation from './components/TimeAndLocation';
@@ -13,7 +14,10 @@ function App() {
         <Inputs />
         <TimeAndLocation />
         <TempAndDetails />
+        <Forecast />
       </div>
+
+
 
 
     </div>
